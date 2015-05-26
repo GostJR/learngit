@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 I like Git.
 I love Git.
+Git is a good tool.
